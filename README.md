@@ -1,7 +1,7 @@
 # Sohel Aman Khan - indipendent researcher
 ser-Speech Emotion Recognition
- OBJECTIVE
-
+ 
+OBJECTIVE
 Speech Emotion Recognition(SER) -
 • It is a task
 • Use Speech as input
