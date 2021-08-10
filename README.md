@@ -1,5 +1,5 @@
 # Sohel Aman Khan - indipendent researcher
-ser-Speech Emotion Recognition
+SER-Speech Emotion Recognition
  
 OBJECTIVE
 Speech Emotion Recognition(SER) -
