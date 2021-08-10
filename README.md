@@ -1,4 +1,4 @@
-# Sohel Aman Khan - indipendent researcher
+# Sohel Aman Khan - Indipendent Researcher
 SER-Speech Emotion Recognition
  
 OBJECTIVE
